@@ -1,0 +1,2 @@
+D:/KULIAH IF UPNVY/SEMESTER 6/PRAK MOBILE/assignment/first_assignment/android/app/.cxx/Debug/6z336m4d/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/KULIAH IF UPNVY/SEMESTER 6/PRAK MOBILE/assignment/first_assignment/android/app/.cxx/Debug/6z336m4d/arm64-v8a/CMakeFiles/rebuild_cache.dir
